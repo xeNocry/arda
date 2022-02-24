@@ -660,7 +660,7 @@ function DiscordLib:Window(text)
 	ChangeAvatarText.BackgroundTransparency = 1.000
 	ChangeAvatarText.Size = UDim2.new(0, 71, 0, 71)
 	ChangeAvatarText.Font = Enum.Font.GothamBold
-	ChangeAvatarText.Text = "FOTOĞRAFI DEĞİŞTİR"
+	ChangeAvatarText.Text = "CHAGNE    AVATAR"
 	ChangeAvatarText.TextColor3 = Color3.fromRGB(255, 255, 255)
 	ChangeAvatarText.TextSize = 11.000
 	ChangeAvatarText.TextWrapped = true
@@ -781,7 +781,7 @@ function DiscordLib:Window(text)
 		Text1.Position = UDim2.new(-0.000594122568, 0, 0.0202020202, 0)
 		Text1.Size = UDim2.new(0, 346, 0, 68)
 		Text1.Font = Enum.Font.GothamSemibold
-		Text1.Text = "Fotoğrafını değiştir"
+		Text1.Text = "C"
 		Text1.TextColor3 = Color3.fromRGB(255, 255, 255)
 		Text1.TextSize = 20.000
 
@@ -837,7 +837,7 @@ function DiscordLib:Window(text)
 		ChangeBtn.Position = UDim2.new(0.749670506, 0, 0.823232353, 0)
 		ChangeBtn.Size = UDim2.new(0, 76, 0, 27)
 		ChangeBtn.Font = Enum.Font.Gotham
-		ChangeBtn.Text = "Değiştir"
+		ChangeBtn.Text = "Change"
 		ChangeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 		ChangeBtn.TextSize = 13.000
 		ChangeBtn.AutoButtonColor = false
@@ -927,7 +927,7 @@ function DiscordLib:Window(text)
 		ResetBtn.Position = UDim2.new(0.260895967, 0, 0.823000014, 0)
 		ResetBtn.Size = UDim2.new(0, 76, 0, 27)
 		ResetBtn.Font = Enum.Font.Gotham
-		ResetBtn.Text = "Sıfırla"
+		ResetBtn.Text = "Reset"
 		ResetBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 		ResetBtn.TextSize = 13.000
 		
@@ -1393,7 +1393,7 @@ function DiscordLib:Window(text)
 		CloseBtn2.Position = UDim2.new(0.898000002, 0, 0, 0)
 		CloseBtn2.Size = UDim2.new(0, 26, 0, 26)
 		CloseBtn2.Font = Enum.Font.Gotham
-		CloseBtn2.Text = "Close"
+		CloseBtn2.Text = ""
 		CloseBtn2.TextColor3 = Color3.fromRGB(255, 255, 255)
 		CloseBtn2.TextSize = 14.000
 
