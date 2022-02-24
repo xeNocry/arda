@@ -547,7 +547,7 @@ function DiscordLib:Window(text)
 	UsernameText.Position = UDim2.new(0.0419999994, 0, 0.154714286, 0)
 	UsernameText.Size = UDim2.new(0, 65, 0, 19)
 	UsernameText.Font = Enum.Font.GothamBold
-	UsernameText.Text = "USERNAME"
+	UsernameText.Text = "Kullanıcı adı"
 	UsernameText.TextColor3 = Color3.fromRGB(126, 130, 136)
 	UsernameText.TextSize = 11.000
 	UsernameText.TextXAlignment = Enum.TextXAlignment.Left
@@ -593,7 +593,7 @@ function DiscordLib:Window(text)
 	EditBtn.Position = UDim2.new(0.797671914, 0, 0.232142866, 0)
 	EditBtn.Size = UDim2.new(0, 55, 0, 30)
 	EditBtn.Font = Enum.Font.Gotham
-	EditBtn.Text = "Edit"
+	EditBtn.Text = "Düzenle"
 	EditBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 	EditBtn.TextSize = 14.000
 	EditBtn.AutoButtonColor = false
@@ -660,7 +660,7 @@ function DiscordLib:Window(text)
 	ChangeAvatarText.BackgroundTransparency = 1.000
 	ChangeAvatarText.Size = UDim2.new(0, 71, 0, 71)
 	ChangeAvatarText.Font = Enum.Font.GothamBold
-	ChangeAvatarText.Text = "CHAGNE    AVATAR"
+	ChangeAvatarText.Text = "FOTOĞRAFI DEĞİŞTİR"
 	ChangeAvatarText.TextColor3 = Color3.fromRGB(255, 255, 255)
 	ChangeAvatarText.TextSize = 11.000
 	ChangeAvatarText.TextWrapped = true
@@ -781,7 +781,7 @@ function DiscordLib:Window(text)
 		Text1.Position = UDim2.new(-0.000594122568, 0, 0.0202020202, 0)
 		Text1.Size = UDim2.new(0, 346, 0, 68)
 		Text1.Font = Enum.Font.GothamSemibold
-		Text1.Text = "Change your avatar"
+		Text1.Text = "Fotoğrafını değiştir"
 		Text1.TextColor3 = Color3.fromRGB(255, 255, 255)
 		Text1.TextSize = 20.000
 
@@ -792,7 +792,7 @@ function DiscordLib:Window(text)
 		Text2.Position = UDim2.new(-0.000594122568, 0, 0.141587839, 0)
 		Text2.Size = UDim2.new(0, 346, 0, 63)
 		Text2.Font = Enum.Font.Gotham
-		Text2.Text = "xd."
+		Text2.Text = "Yeni profilinizi bir Roblox link kısmına girin."
 		Text2.TextColor3 = Color3.fromRGB(171, 172, 176)
 		Text2.TextSize = 14.000
 
@@ -837,7 +837,7 @@ function DiscordLib:Window(text)
 		ChangeBtn.Position = UDim2.new(0.749670506, 0, 0.823232353, 0)
 		ChangeBtn.Size = UDim2.new(0, 76, 0, 27)
 		ChangeBtn.Font = Enum.Font.Gotham
-		ChangeBtn.Text = "Change"
+		ChangeBtn.Text = "Değiştir"
 		ChangeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 		ChangeBtn.TextSize = 13.000
 		ChangeBtn.AutoButtonColor = false
@@ -927,7 +927,7 @@ function DiscordLib:Window(text)
 		ResetBtn.Position = UDim2.new(0.260895967, 0, 0.823000014, 0)
 		ResetBtn.Size = UDim2.new(0, 76, 0, 27)
 		ResetBtn.Font = Enum.Font.Gotham
-		ResetBtn.Text = "Reset"
+		ResetBtn.Text = "Sıfırla"
 		ResetBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
 		ResetBtn.TextSize = 13.000
 		
@@ -1094,7 +1094,7 @@ function DiscordLib:Window(text)
 	MyAccountBtnTitle.Position = UDim2.new(0.0759999976, 0, -0.166999996, 0)
 	MyAccountBtnTitle.Size = UDim2.new(0, 95, 0, 39)
 	MyAccountBtnTitle.Font = Enum.Font.GothamSemibold
-	MyAccountBtnTitle.Text = "My Account"
+	MyAccountBtnTitle.Text = "Hesabım"
 	MyAccountBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 	MyAccountBtnTitle.TextSize = 14.000
 	MyAccountBtnTitle.TextXAlignment = Enum.TextXAlignment.Left
@@ -1106,7 +1106,7 @@ function DiscordLib:Window(text)
 	SettingsTitle.Position = UDim2.new(0.308999985, 0, 0.0450000018, 0)
 	SettingsTitle.Size = UDim2.new(0, 65, 0, 19)
 	SettingsTitle.Font = Enum.Font.GothamBlack
-	SettingsTitle.Text = "SETTINGS"
+	SettingsTitle.Text = "Ayarlar"
 	SettingsTitle.TextColor3 = Color3.fromRGB(142, 146, 152)
 	SettingsTitle.TextSize = 11.000
 	SettingsTitle.TextXAlignment = Enum.TextXAlignment.Left
@@ -1118,7 +1118,7 @@ function DiscordLib:Window(text)
 	DiscordInfo.Position = UDim2.new(0.304721028, 0, 0.821333349, 0)
 	DiscordInfo.Size = UDim2.new(0, 133, 0, 44)
 	DiscordInfo.Font = Enum.Font.Gotham
-	DiscordInfo.Text = "Stable 1.0.0 (00001)  Host 0.0.0.1                Roblox Lua Engine    "
+	DiscordInfo.Text = "Sürüm 1.0.0 (00001)  Sunucu 0.0.0.1                xeNocry    "
 	DiscordInfo.TextColor3 = Color3.fromRGB(101, 108, 116)
 	DiscordInfo.TextSize = 13.000
 	DiscordInfo.TextWrapped = true
@@ -1132,7 +1132,7 @@ function DiscordLib:Window(text)
 	CurrentSettingOpen.Position = UDim2.new(1.07294846, 0, 0.0450000018, 0)
 	CurrentSettingOpen.Size = UDim2.new(0, 65, 0, 19)
 	CurrentSettingOpen.Font = Enum.Font.GothamBlack
-	CurrentSettingOpen.Text = "MY ACCOUNT"
+	CurrentSettingOpen.Text = "HESABIM"
 	CurrentSettingOpen.TextColor3 = Color3.fromRGB(255, 255, 255)
 	CurrentSettingOpen.TextSize = 14.000
 	CurrentSettingOpen.TextXAlignment = Enum.TextXAlignment.Left
@@ -1246,7 +1246,7 @@ function DiscordLib:Window(text)
 		Text1.Position = UDim2.new(-0.000594122568, 0, 0.0202020202, 0)
 		Text1.Size = UDim2.new(0, 346, 0, 68)
 		Text1.Font = Enum.Font.GothamSemibold
-		Text1.Text = "Change your username"
+		Text1.Text = "İsmini değiştir"
 		Text1.TextColor3 = Color3.fromRGB(255, 255, 255)
 		Text1.TextSize = 20.000
 
@@ -1257,7 +1257,7 @@ function DiscordLib:Window(text)
 		Text2.Position = UDim2.new(-0.000594122568, 0, 0.141587839, 0)
 		Text2.Size = UDim2.new(0, 346, 0, 63)
 		Text2.Font = Enum.Font.Gotham
-		Text2.Text = "Enter your new username."
+		Text2.Text = "Yeni kullanıcı adınızı girin."
 		Text2.TextColor3 = Color3.fromRGB(171, 172, 176)
 		Text2.TextSize = 14.000
 
@@ -1393,7 +1393,7 @@ function DiscordLib:Window(text)
 		CloseBtn2.Position = UDim2.new(0.898000002, 0, 0, 0)
 		CloseBtn2.Size = UDim2.new(0, 26, 0, 26)
 		CloseBtn2.Font = Enum.Font.Gotham
-		CloseBtn2.Text = ""
+		CloseBtn2.Text = "Close"
 		CloseBtn2.TextColor3 = Color3.fromRGB(255, 255, 255)
 		CloseBtn2.TextSize = 14.000
 
@@ -1413,7 +1413,7 @@ function DiscordLib:Window(text)
 		CloseBtn1.Position = UDim2.new(0.495000005, 0, 0.823000014, 0)
 		CloseBtn1.Size = UDim2.new(0, 76, 0, 27)
 		CloseBtn1.Font = Enum.Font.Gotham
-		CloseBtn1.Text = "Close"
+		CloseBtn1.Text = "Kapat"
 		CloseBtn1.TextColor3 = Color3.fromRGB(255, 255, 255)
 		CloseBtn1.TextSize = 13.000
 
