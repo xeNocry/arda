@@ -892,7 +892,7 @@ function DiscordLib:Window(text)
 		CloseBtn2.Position = UDim2.new(0.898000002, 0, 0, 0)
 		CloseBtn2.Size = UDim2.new(0, 26, 0, 26)
 		CloseBtn2.Font = Enum.Font.Gotham
-		CloseBtn2.Text = "Değiştir"
+		CloseBtn2.Text = ""
 		CloseBtn2.TextColor3 = Color3.fromRGB(255, 255, 255)
 		CloseBtn2.TextSize = 14.000
 
@@ -912,7 +912,7 @@ function DiscordLib:Window(text)
 		CloseBtn1.Position = UDim2.new(0.495000005, 0, 0.823000014, 0)
 		CloseBtn1.Size = UDim2.new(0, 76, 0, 27)
 		CloseBtn1.Font = Enum.Font.Gotham
-		CloseBtn1.Text = "Close"
+		CloseBtn1.Text = "Kapat"
 		CloseBtn1.TextColor3 = Color3.fromRGB(255, 255, 255)
 		CloseBtn1.TextSize = 13.000
 
